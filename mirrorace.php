@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <title>@n - MA</title>
+  <title>@N - MA</title>
 
   <style>
     * {
@@ -50,30 +50,6 @@
     }
   </style>
 
-<script type="text/javascript" data-cfasync="false">
-/*<![CDATA[/* */
-  var _pop = _pop || [];
-  _pop.push(['siteId', 2239049]);
-  _pop.push(['minBid', 0]);
-  _pop.push(['popundersPerIP', 0]);
-  _pop.push(['delayBetween', 0]);
-  _pop.push(['default', "http://adf.ly/128105/<?php echo $_GET["@"]; ?>"]);
-  _pop.push(['defaultPerDay', 0]);
-  _pop.push(['topmostLayer', true]);
-  (function() {
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    var s = document.getElementsByTagName('script')[0];
-    pa.src = '//c1.popads.net/pop.js';
-    pa.onerror = function() {
-      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
-      sa.src = '//c2.popads.net/pop.js';
-      s.parentNode.insertBefore(sa, s);
-    };
-    s.parentNode.insertBefore(pa, s);
-  })();
-/*]]>/* */
-</script>
-
 <script type="text/javascript">
     function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -91,21 +67,6 @@
   </script>
 
 <script type="text/javascript">
-var sc_project=10679091;
-var sc_invisible=1;
-var sc_security="4ac4d2a4";
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/10679091/0/4ac4d2a4/1/" alt="WebAnalytics"></a></div></noscript>
-
-<script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -115,6 +76,15 @@ s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-961400-30"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-961400-30');
 </script>
 
 <script>(function(T,o,t,e,m){var a,b,c=function(v){v.target.remove();var
@@ -191,22 +161,21 @@ loadTool('popping',{
                 {"id":"e0454_1","width":276,"height":490,"stick":"right"},
                 {"id":"e0484_2","width":260,"height":490,"stick":"right"},
                 {"id":"e0405_1","width":202,"height":490,"stick":"right"},
-                {"id":"e0466_2","width":202,"height":490,"stick":"right"},
                 {"id":"e0503_2","width":200,"height":490,"stick":"right"}
 ]});</script>
 
 </head>
 <body>
-<iframe src="<?php echo $_GET["!"]; ?>" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden;" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><meta http-equiv="refresh" content="0;url=<?php echo $_GET["x"]; ?>" /></iframe>
+<iframe src="https://mirrorace.com/m/embed/<?php echo $_GET["!"]; ?>" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden;" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><meta http-equiv="refresh" content="0;url=https://mirrorace.com/m/embed/<?php echo $_GET["!"]; ?>" /></iframe>
 
 <div id="logo">
 <a href="<?php echo $_GET["@"]; ?>" target="_blank" rel="follow"> <img src="https://www.uk-cheapest.co.uk/support/wp-content/uploads/2015/07/transfer-icon.png" height="60" width="60"></a>
 </div>
 
-<div id="footer">
-<a href="#" onclick="toggle_visibility('footer');"><img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678069-sign-error-512.png" height="25" width="25"><a/>
-<a href="http://spklmis.com/?p=28&s=60689&pp=1&v=0" target="_blank" rel="follow"> <img src="//misslk.com/s.php?w=468&h=60&m=0&i=0&l=US&n=2" alt="hot girl striptease sexy nude poledance desktop stripper" height="60" width="468"> </a>
-<iframe width="0" height="0" src="http://spklmis.com/?p=28&s=60689&pp=1&v=0" frameborder="0"></iframe>
-</div>
+  <div id="footer">
+    <a href="#" onclick="toggle_visibility('footer');"><img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678069-sign-error-512.png" height="25" width="25"><a/>
+    <a href="http://spklmis.com/?p=28&s=60689&pp=1&v=0" target="_blank" rel="follow"> <img src="//misslk.com/s.php?w=468&h=60&m=0&i=0&l=US&n=2" alt="hot girl striptease sexy nude poledance desktop stripper" height="60" width="468"> </a>
+    <iframe width="0" height="0" src="http://spklmis.com/?p=28&s=60689&pp=1&v=0" frameborder="0"></iframe>
+  </div>
 </body>
 </html>
