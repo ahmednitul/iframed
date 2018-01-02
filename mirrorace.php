@@ -50,15 +50,6 @@
     }
   </style>
 
-<script type="text/javascript">
-    var ppw_id = 198330;
-    var ppw_advert = 'int';
-    var frequency_cap = 5;
-    var frequency_delay = 5;
-    var init_delay = 3;
-</script>
-<script src="http://p.pw/js/entry-script.js"></script>
-
 <script type="text/javascript" data-cfasync="false">
 /*<![CDATA[/* */
   var _pop = _pop || [];
